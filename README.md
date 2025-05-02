@@ -7,5 +7,3 @@
 - 📝 Fully-featured rich text editor using Jodit
 - 🤖 AI-powered writing assistance via OpenAI
 - 🎨 Clean, modern UI built with Tailwind CSS and Radix UI
-- 🌙 Dark mode support with `next-themes`
-
